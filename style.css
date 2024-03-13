@@ -1,0 +1,37 @@
+ /* Full credit to code.org for task */
+  
+p {
+  color: black;
+}
+h1 {
+  color: #ffadd5;
+  font-family: courior, monospace;
+  font-size: 39px;
+}
+h5 {
+  color: #f59ec4;
+  font-family: Brush Script MT, Lucida Handwriting;
+  font-size: 20px;
+}
+body{
+  background-color: #542b3f;
+}
+img{
+  height: 200px;
+  width:  300px;
+}
+p {
+  color: #430a31;
+}
+
+#center{
+  position: relative;
+  left: 1px;
+  margin: 2px;
+  padding: 2px;
+  border: 5px solid #7f4873;
+  background-image: repeating-linear-gradient(#cc7a8b,#7a4d60);
+  width: 49.5%;
+  height: 1280px;
+}
+
